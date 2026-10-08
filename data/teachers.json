@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Anwar Kabir",
+        "qualification": "Lecturer",
+        "department": "ICT",
+        "email": "anwar@example.com"
+    },
+    {
+        "name": "Prof. Dr. Mohammad Badrul Alam Miah",
+        "qualification": "Professor",
+        "department": "ICT",
+        "email": "badrul@example.com"
+    },
+    {
+        "name": "Dr. Muhammad Shahin Uddin",
+        "qualification": "Professor",
+        "department": "ICT",
+        "email": "shahin@example.com"
+    },
+    {
+        "name": "Dr. Mst. Nargis Akter",
+        "qualification": "Professor",
+        "department": "ICT",
+        "email": "nargis@example.com"
+    },
+    {
+        "name": "Dr. Md. Abir Hossain",
+        "qualification": "Professor",
+        "department": "ICT",
+        "email": "abir@example.com"
+    },
+    {
+        "name": "Prof. Dr. Ziaur Rahman",
+        "qualification": "Full Professor",
+        "department": "ICT",
+        "email": "ziaur@example.com"
+    },
+    {
+    "name": "Dr. Nazrul Islam",
+    "qualification": "Associate Professor",
+    "department": "ICT",
+    "email": "nazrul@example.com"
+},
+    {
+        "name": "Dr. Monir Morshed",
+        "qualification": "Professor",
+        "department": "ICT",
+        "email": "monir@example.com"
+    }
+]

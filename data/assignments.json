@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "course": "Web Application Development",
+        "title": "Final Lab Project",
+        "deadline": "2026-10-10",
+        "description": "Develop and deploy a complete web application."
+    },
+    {
+        "id": 2,
+        "course": "Data Communication",
+        "title": "TCP Assignment",
+        "deadline": "2026-10-15",
+        "description": "Prepare an assignment about TCP connection management."
+    },
+    {
+        "id": 3,
+        "course": "Operating System",
+        "title": "Process Management",
+        "deadline": "2026-10-18",
+        "description": "Write a short report about process management."
+    },
+    {
+        "id": 4,
+        "course": "Digital Signal Processing",
+        "title": "Z-Transform Assignment",
+        "deadline": "2026-10-20",
+        "description": "Solve the given Z-transform problems and submit the report."
+    }
+]

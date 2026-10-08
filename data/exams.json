@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2026-10-20",
+        "time": "10:00 AM - 1:00 PM",
+        "course": "Web Application Development",
+        "room": "301"
+    },
+    {
+        "id": 2,
+        "date": "2026-10-22",
+        "time": "10:00 AM - 1:00 PM",
+        "course": "Data Communication",
+        "room": "302"
+    },
+    {
+        "id": 3,
+        "date": "2026-10-24",
+        "time": "10:00 AM - 1:00 PM",
+        "course": "Operating System",
+        "room": "303"
+    },
+    {
+        "id": 4,
+        "date": "2026-10-26",
+        "time": "10:00 AM - 1:00 PM",
+        "course": "Digital Signal Processing",
+        "room": "304"
+    }
+]

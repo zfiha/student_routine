@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "code": "ICT-4101",
+        "name": "Web Application Development",
+        "credit": 3,
+        "department": "ICT",
+        "semester": "3rd Year, 1st Semester",
+        "description": "Web application development using HTML, CSS, JavaScript, PHP and backend technologies."
+    },
+    {
+        "id": 2,
+        "code": "ICT-4103",
+        "name": "Data Communication",
+        "credit": 3,
+        "department": "ICT",
+        "semester": "3rd Year, 1st Semester",
+        "description": "Study of data transmission, communication systems, networking, protocols and error control techniques."
+    },
+    {
+        "id": 3,
+        "code": "ICT-4105",
+        "name": "Ethics",
+        "credit": 2,
+        "department": "ICT",
+        "semester": "3rd Year, 1st Semester",
+        "description": "Study of professional ethics, cyber ethics, social responsibility, privacy and ethical issues in information technology."
+    },
+    {
+        "id": 4,
+        "code": "ICT-4107",
+        "name": "Digital Signal Processing",
+        "credit": 3,
+        "department": "ICT",
+        "semester": "3rd Year, 1st Semester",
+        "description": "Introduction to digital signals, systems, sampling, Fourier transform, filtering and digital signal processing techniques."
+    },
+    {
+        "id": 5,
+        "code": "ICT-4109",
+        "name": "Statistics",
+        "credit": 3,
+        "department": "ICT",
+        "semester": "3rd Year, 1st Semester",
+        "description": "Study of probability, random variables, distributions, sampling, estimation, hypothesis testing and statistical analysis."
+    }
+]

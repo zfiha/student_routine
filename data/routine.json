@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "day": "Sunday",
+        "time": "9:00 AM - 10:00 AM",
+        "course": "Web Application Development",
+        "teacher": "Anwar Kabir",
+        "room": "301"
+    },
+    {
+        "id": 2,
+        "day": "Sunday",
+        "time": "10:00 AM - 11:00 AM",
+        "course": "Data Communication",
+        "teacher": "Prof. Dr. Mohammad Badrul Alam Miah",
+        "room": "302"
+    },
+    {
+        "id": 3,
+        "day": "Monday",
+        "time": "9:00 AM - 10:00 AM",
+        "course": "Statistics",
+        "teacher": "Dr. Muhammad Shahin Uddin",
+        "room": "303"
+    },
+    {
+        "id": 4,
+        "day": "Monday",
+        "time": "10:00 AM - 11:00 AM",
+        "course": "Ethics",
+        "teacher": "Dr. Mst. Nargis Akter",
+        "room": "304"
+    },
+    {
+        "id": 5,
+        "day": "Tuesday",
+        "time": "11:00 AM - 12:00 PM",
+        "course": "Digital Signal Processing",
+        "teacher": "Dr. Md. Abir Hossain",
+        "room": "305"
+    },
+    {
+        "id": 6,
+        "day": "Wednesday",
+        "time": "9:00 AM - 10:00 AM",
+        "course": "Data Communication",
+        "teacher": "Prof. Dr. Ziaur Rahman",
+        "room": "302"
+    },
+    {
+        "id": 7,
+        "day": "Wednesday",
+        "time": "10:00 AM - 11:00 AM",
+        "course": "Web Application Development",
+        "teacher": "Dr. Monir Morshed",
+        "room": "301"
+    },
+    {
+        "id": 8,
+        "day": "Thursday",
+        "time": "9:00 AM - 10:00 AM",
+        "course": "Digital Signal Processing",
+        "teacher": "Dr. Nazrul Islam",
+        "room": "305"
+    },
+    {
+        "id": 9,
+        "day": "Thursday",
+        "time": "10:00 AM - 11:00 AM",
+        "course": "Statistics",
+        "teacher": "Dr. Muhammad Shahin Uddin",
+        "room": "303"
+    },
+    {
+        "id": 10,
+        "day": "Thursday",
+        "time": "11:00 AM - 12:00 PM",
+        "course": "Ethics",
+        "teacher": "Dr. Mst. Nargis Akter",
+        "room": "304"
+    },
+    {
+        "id": 1791468530,
+        "day": "Monday",
+        "time": " 2:00 PM - 3:00 PM",
+        "course": "Test Class",
+        "teacher": "Anwar Kabir",
+        "room": "213"
+    },
+    {
+        "id": 1791468569,
+        "day": "Sunday",
+        "time": " 2:00 PM - 3:00 PM",
+        "course": "Test Class",
+        "teacher": "Anwar Kabir",
+        "room": "213"
+    }
+]

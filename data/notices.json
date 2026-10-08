@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Final Lab Project Submission",
+        "description": "Students must submit the GitHub repository link, live website link, presentation slides and project video within the specified deadline.",
+        "date": "2026-10-10"
+    },
+    {
+        "id": 2,
+        "title": "Class Test Notice",
+        "description": "A class test will be held next week. Students are requested to prepare the topics covered in recent classes and attend the test on time.",
+        "date": "2026-10-12"
+    },
+    {
+        "id": 3,
+        "title": "Department Meeting Notice",
+        "description": "Students are requested to check the department notice board regularly for important academic announcements and departmental updates.",
+        "date": "2026-10-15"
+    },
+    {
+        "id": 4,
+        "title": "Class Routine Update",
+        "description": "The class routine has been updated. Students should check the latest routine carefully before attending their scheduled classes.",
+        "date": "2026-10-17"
+    }
+]
